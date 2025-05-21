@@ -1,0 +1,6 @@
+# Custom
+node_modules/
+.devcontainer/
+.vscode/
+.npmrc
+dist/
